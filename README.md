@@ -1,5 +1,5 @@
-# proejct-cambridge
-proejct-xjtlu 
+# proejct-Distance + Gyro Sensor
+Arudino Project 
 
 
 
